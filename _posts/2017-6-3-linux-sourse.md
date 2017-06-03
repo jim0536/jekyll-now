@@ -7,4 +7,4 @@ title: linux 源 !
 软件列表更新：update
 更新软件：从软件列表下载软件进行更新。
 
-参考：【Linux】ubuntu的源（概念、如何使用、如何选择最优源、update与upgrade作用及区别）
+参考：[【Linux】ubuntu的源（概念、如何使用、如何选择最优源、update与upgrade作用及区别）](http://blog.csdn.net/wait_for_taht_day5/article/details/50983155)
